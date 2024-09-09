@@ -10,7 +10,7 @@ Me chamo Leonardo, graduado em Defesa Cibérnetica pela UNESA. Trabalho como con
 
 > Cursos
  
-- Cyberops Associate  - Fundação FAT https://www.credly.com/badges/6abc76c4-f28e-4bbd-a77d-8520f415adc3?source=linked_in_profile
+- Cyberops Associate  - Fundação FAT 
 - 1010 Exin Information Security Foudantion based on ISO IEC 27001 (ISFS) - KaSolution
 - 1011 Exin Privacy and Data Protection Essentials (PDPE) - KaSolution
 - 1012 Exin Privacy and Data Protection Foundation (PDPF) - Kasolution
